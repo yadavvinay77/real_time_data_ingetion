@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# VSCode & Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

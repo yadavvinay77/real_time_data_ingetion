@@ -1,0 +1,4 @@
+MetaTrader5
+kafka-python
+pyspark
+numpy
